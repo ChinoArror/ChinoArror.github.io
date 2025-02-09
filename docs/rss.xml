@@ -1,5 +1,86 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Dog's blog</title><link>https://ChinoArror.github.io</link><description>who is dog</description><copyright>Dog's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/11755104?s=48&amp;v=4</url><title>avatar</title><link>https://ChinoArror.github.io</link></image><lastBuildDate>Fri, 07 Feb 2025 18:44:35 +0000</lastBuildDate><managingEditor>Dog's blog</managingEditor><ttl>60</ttl><webMaster>Dog's blog</webMaster><item><title>生物知识梳理-第二弹</title><link>https://ChinoArror.github.io/post/sheng-wu-zhi-shi-shu-li---di-er-dan.html</link><description>### **第2章 动物和人体生命活动的调节**  
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Dog's blog</title><link>https://ChinoArror.github.io</link><description>who is dog</description><copyright>Dog's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/11755104?s=48&amp;v=4</url><title>avatar</title><link>https://ChinoArror.github.io</link></image><lastBuildDate>Sun, 09 Feb 2025 01:27:14 +0000</lastBuildDate><managingEditor>Dog's blog</managingEditor><ttl>60</ttl><webMaster>Dog's blog</webMaster><item><title>生物知识梳理-第三弹</title><link>https://ChinoArror.github.io/post/sheng-wu-zhi-shi-shu-li---di-san-dan.html</link><description>### **第三章 植物生命活动的调节**
+
+#### **一、植物激素调节**
+1. **生长素（IAA）**
+   - **合成部位**：幼嫩芽、叶、发育中的种子
+   - **分布**：集中在生长旺盛部位（如胚芽鞘、芽、根顶端分生组织）
+   - **运输**：极性运输（从形态学上端→下端）、非极性运输（成熟组织）
+   - **生理作用**  
+     - 促进细胞伸长、器官生长  
+     - 促进扦插枝条生根、果实发育  
+     - 高浓度抑制生长（顶端优势原理）
+   - **相关实验**  
+     - 达尔文父子实验（向光性与尖端有关）  
+     - 温特实验（证明化学物质“生长素”存在）  
+     - 郭葛实验（分离鉴定生长素为吲哚乙酸）
+
+2. **赤霉素（GA）**
+   - **作用**：促进茎伸长、解除种子休眠、促进发芽
+   - **应用**：提高茎秆高度（如杂交水稻制种）
+
+3. **细胞分裂素（CTK）**
+   - **作用**：促进细胞分裂、延缓叶片衰老
+   - **分布**：根尖合成，运输至其他器官
+
+4. **脱落酸（ABA）**
+   - **作用**：抑制生长、促进休眠、提高抗逆性、促进器官脱落
+   - **分布**：根冠、萎蔫叶片
+
+5. **乙烯**
+   - **作用**：促进果实成熟、促进器官脱落、抑制伸长生长
+   - **合成部位**：广泛存在，成熟果实中最多
+
+---
+
+#### **二、环境因素调节**
+1. **光**
+   - **光周期**：影响开花（长日照/短日照植物）  
+   - **向光性**：单侧光导致生长素分布不均（背光侧浓度高）  
+   - **光形态建成**：红光/远红光调控种子萌发（光敏色素介导）
+
+2. **温度**
+   - 影响酶活性，调节代谢速率  
+   - 春化作用：低温促进某些植物开花（如冬小麦）
+
+3. **重力**
+   - 引起根的向地性、茎的背地性  
+   - 机制：重力影响生长素分布，根对生长素更敏感
+
+4. **其他因素**  
+   - 水分（向水性）、化学物质（土壤pH影响矿质吸收）
+
+---
+
+#### **三、植物生命活动的整体调节**
+1. **激素间相互作用**
+   - **协同作用**：生长素+赤霉素促进茎伸长  
+   - **拮抗作用**：生长素（抑制侧芽） vs 细胞分裂素（促进侧芽生长）  
+   - **调控网络**：多种激素共同调控（例：种子萌发需GA↑、ABA↓）
+
+2. **基因表达调控**  
+   - 激素通过信号转导途径影响基因表达（例：生长素诱导特定基因表达）
+
+---
+
+#### **四、应用实例**
+1. **农业生产**  
+   - 乙烯利催熟香蕉、番茄  
+   - 赤霉素促进芦苇茎秆增高  
+   - 2,4-D作为除草剂（高浓度抑制双子叶杂草）
+
+2. **园艺**  
+   - 解除顶端优势（修剪果树扩大树冠）  
+   - 扦插枝条浸泡生根粉（生长素类似物）
+
+---
+
+#### **五、核心概念辨析**
+- **向性运动**：定向反应（向光、向地）  
+- **感性运动**：无方向性（含羞草叶片闭合）  
+- **应激性** vs 适应性：短期响应 vs 长期进化结果  
+
+---。</description><guid isPermaLink="true">https://ChinoArror.github.io/post/sheng-wu-zhi-shi-shu-li---di-san-dan.html</guid><pubDate>Sun, 09 Feb 2025 01:26:50 +0000</pubDate></item><item><title>生物知识梳理-第二弹</title><link>https://ChinoArror.github.io/post/sheng-wu-zhi-shi-shu-li---di-er-dan.html</link><description>### **第2章 动物和人体生命活动的调节**  
 **核心逻辑：**  
 **调节方式 = 神经调节（主导） + 体液调节（辅助） + 免疫调节（防御）**  
 
