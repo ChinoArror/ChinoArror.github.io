@@ -1,5 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Dog's blog</title><link>https://ChinoArror.github.io</link><description>who is dog</description><copyright>Dog's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/11755104?s=48&amp;v=4</url><title>avatar</title><link>https://ChinoArror.github.io</link></image><lastBuildDate>Sun, 09 Feb 2025 01:27:14 +0000</lastBuildDate><managingEditor>Dog's blog</managingEditor><ttl>60</ttl><webMaster>Dog's blog</webMaster><item><title>生物知识梳理-第三弹</title><link>https://ChinoArror.github.io/post/sheng-wu-zhi-shi-shu-li---di-san-dan.html</link><description>### **第三章 植物生命活动的调节**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Dog's blog</title><link>https://ChinoArror.github.io</link><description>who is dog</description><copyright>Dog's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/11755104?s=48&amp;v=4</url><title>avatar</title><link>https://ChinoArror.github.io</link></image><lastBuildDate>Mon, 10 Feb 2025 08:37:44 +0000</lastBuildDate><managingEditor>Dog's blog</managingEditor><ttl>60</ttl><webMaster>Dog's blog</webMaster><item><title>生物知识梳理-第四弹</title><link>https://ChinoArror.github.io/post/sheng-wu-zhi-shi-shu-li---di-si-dan.html</link><description>### **免疫调节知识梳理**
+**中心主题：免疫调节**
+
+---
+
+#### **一、免疫系统的组成**
+1. **免疫器官**  
+   - 中枢免疫器官：骨髓（B细胞成熟地）、胸腺（T细胞成熟地）  
+   - 外周免疫器官：脾、淋巴结、扁桃体  
+
+2. **免疫细胞**  
+   - 淋巴细胞：T细胞（辅助T细胞、细胞毒性T细胞）、B细胞、浆细胞、记忆细胞  
+   - 吞噬细胞：树突状细胞、巨噬细胞（处理并呈递抗原）  
+
+3. **免疫活性物质**  
+   - 抗体（浆细胞分泌）  
+   - 细胞因子（辅助T细胞分泌，如白细胞介素）  
+   - 补体、溶菌酶等  
+
+---
+
+#### **二、免疫的三道防线**
+1. **第一道防线（非特异性）**  
+   - 物理屏障：皮肤、黏膜  
+   - 化学屏障：溶菌酶、胃酸  
+
+2. **第二道防线（非特异性）**  
+   - 体液中的杀菌物质（如补体）  
+   - 吞噬细胞（吞噬病原体）  
+
+3. **第三道防线（特异性免疫）**  
+   - **体液免疫**（针对胞外病原体）  
+   - **细胞免疫**（针对胞内病原体、癌细胞）  
+
+---
+
+#### **三、特异性免疫的核心过程**
+1. **抗原与抗体**  
+   - 抗原：引发免疫反应的物质（如病毒、细菌表面蛋白）  
+   - 抗体：由浆细胞分泌的Y形蛋白，特异性结合抗原  
+
+2. **体液免疫流程**  
+   - 抗原呈递细胞（APC）处理抗原→辅助T细胞激活→B细胞增殖分化为浆细胞和记忆细胞→浆细胞分泌抗体  
+
+3. **细胞免疫流程**  
+   - APC呈递抗原→辅助T细胞激活→细胞毒性T细胞增殖分化→识别并裂解靶细胞  
+
+4. **两者的联系**  
+   - 辅助T细胞是纽带：分泌细胞因子促进B细胞和细胞毒性T细胞活化  
+   - 病毒清除需两者协同（体液免疫中和病毒，细胞免疫裂解感染细胞）  
+
+---
+
+#### **四、免疫失调与疾病**
+1. **过敏反应**  
+   - 特点：已免疫的机体再次接触过敏原，发作迅速（如花粉过敏）  
+
+2. **自身免疫病**  
+   - 机制：免疫系统攻击自身组织（如类风湿性关节炎、系统性红斑狼疮）  
+
+3. **免疫缺陷病**  
+   - 先天性：遗传缺陷（如SCID）  
+   - 获得性：HIV攻击辅助T细胞→艾滋病  
+
+---
+
+#### **五、免疫学的应用**
+1. **疫苗**  
+   - 原理：模拟抗原刺激产生记忆细胞（如灭活疫苗、mRNA疫苗）  
+   - 二次免疫特点：更快、更强  
+
+2. **临床检测**  
+   - 抗原/抗体检测（如新冠抗体试剂盒）  
+
+3. **器官移植**  
+   - 免疫排斥：需长期使用免疫抑制剂  
+
+---
+
+#### **六、免疫系统的功能**
+1. 免疫防御（抗感染）  
+2. 免疫自稳（清除衰老、损伤细胞）  
+3. 免疫监视（识别并清除癌细胞）  
+
+---
+
+### **思维导图绘制建议**
+1. **层级关系**：从中心主题“免疫调节”向外辐射，按六大分支展开。</description><guid isPermaLink="true">https://ChinoArror.github.io/post/sheng-wu-zhi-shi-shu-li---di-si-dan.html</guid><pubDate>Mon, 10 Feb 2025 08:35:30 +0000</pubDate></item><item><title>生物知识梳理-第三弹</title><link>https://ChinoArror.github.io/post/sheng-wu-zhi-shi-shu-li---di-san-dan.html</link><description>### **第三章 植物生命活动的调节**
 
 #### **一、植物激素调节**
 1. **生长素（IAA）**
