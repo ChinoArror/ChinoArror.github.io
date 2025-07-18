@@ -1,81 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Dog's blog</title><link>https://ChinoArror.github.io</link><description>who is dog</description><copyright>Dog's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://yukitech.top/img/avatar_hufe50dbc0beadaa3d73fb72cc6dac61b3_59705_300x0_resize_box_3.png</url><title>avatar</title><link>https://ChinoArror.github.io</link></image><lastBuildDate>Fri, 18 Jul 2025 00:51:34 +0000</lastBuildDate><managingEditor>Dog's blog</managingEditor><ttl>60</ttl><webMaster>Dog's blog</webMaster><item><title>q</title><link>https://ChinoArror.github.io/post/q.html</link><description>周次	日期	时段	任务内容	时长规划	
-第一周（7.17 - 7.23）					
-	7.17	7:30 - 8:30	语文早读（古诗文背诵、作文素材积累）	1h	
-		8:30 - 9:00	早餐&amp;休息	0.5h	
-		9:00 - 11:30	物理作业/专题训练（力与运动板块），含错题整理	2.5h	
-		11:30 - 13:30	午餐&amp;午休	2h	
-		13:30 - 16:00	化学作业/专题训练（元素化学板块），含规律总结	2.5h	
-		16:00 - 16:30	休息（远眺、简单活动）	0.5h	
-		16:30 - 19:00	生物作业/专题训练（细胞结构与功能板块），含概念梳理	2.5h	
-		19:00 - 20:00	晚餐&amp;自由活动（散步、听播客等）	1h	
-		20:00 - 22:30	数学作业/专题训练（函数与导数板块），含难题攻坚	2.5h	
-		22:30 - 23:00	当日错题整理（物化生数）+ 语文练字（选做）	0.5h	
-	7.18	7:30 - 8:30	英语早读（单词速记、作文模板背诵）	1h	
-		8:30 - 9:00	早餐&amp;休息	0.5h	
-		9:00 - 11:30	化学作业/专题训练（化学反应原理板块），含错题分析	2.5h	
-		11:30 - 13:30	午餐&amp;午休	2h	
-		13:30 - 16:00	生物作业/专题训练（遗传规律板块），含题型归纳	2.5h	
-		16:00 - 16:30	休息（眼保健操、拉伸）	0.5h	
-		16:30 - 19:00	物理作业/专题训练（电磁感应板块），含思路复盘	2.5h	
-		19:00 - 20:00	晚餐&amp;自由活动（轻运动、时事了解）	1h	
-		20:00 - 22:30	英语作业/专题训练（阅读&amp;完形板块），含错题翻译	2.5h	
-		22:30 - 23:00	当日错题整理（物化生英）+ 英语单词巩固（选做）	0.5h	
-	7.19	7:30 - 8:30	语文早读（文言文实词虚词积累）	1h	
-		8:30 - 9:00	早餐&amp;休息	0.5h	
-		9:00 - 11:30	生物作业/专题训练（生态系统板块），含图表分析	2.5h	
-		11:30 - 13:30	午餐&amp;午休	2h	
-		13:30 - 16:00	数学作业/专题训练（立体几何板块），含模型总结	2.5h	
-		16:00 - 16:30	休息（听音乐、短暂放空）	0.5h	
-		16:30 - 19:00	化学作业/专题训练（有机化学板块），含合成路线梳理	2.5h	
-		19:00 - 20:00	晚餐&amp;自由活动（户外漫步、新闻浏览）	1h	
-		20:00 - 22:30	物理作业/专题训练（力学实验板块），含数据处理	2.5h	
-		22:30 - 23:00	当日错题整理（物化生数）+ 语文作文提纲练习（选做）	0.5h	
-	7.20	7:30 - 8:30	英语早读（听力文本跟读、词汇拓展）	1h	
-		8:30 - 9:00	早餐&amp;休息	0.5h	
-		9:00 - 11:30	数学作业/专题训练（概率统计板块），含题型拆解	2.5h	
-		11:30 - 13:30	午餐&amp;午休	2h	
-		13:30 - 16:00	物理作业/专题训练（电路分析板块），含故障排查	2.5h	
-		16:00 - 16:30	休息（简单家务、活动身体）	0.5h	
-		16:30 - 19:00	生物作业/专题训练（生物技术实践板块），含操作步骤整理	2.5h	
-		19:00 - 20:00	晚餐&amp;自由活动（趣味科普视频观看）	1h	
-		20:00 - 22:30	英语作业/专题训练（语法填空&amp;短文改错板块），含语法归纳	2.5h	
-		22:30 - 23:00	当日错题整理（物化生英）+ 英语作文思路梳理（选做）	0.5h	
-	7.21	7:30 - 8:30	语文早读（作文素材深度解读）	1h	
-		8:30 - 9:00	早餐&amp;休息	0.5h	
-		9:00 - 11:30	化学作业/专题训练（化学实验板块），含误差分析	2.5h	
-		11:30 - 13:30	午餐&amp;午休	2h	
-		13:30 - 16:00	生物作业/专题训练（现代生物科技板块），含技术对比	2.5h	
-		16:00 - 16:30	休息（阅读短篇文章、放松大脑）	0.5h	
-		16:30 - 19:00	数学作业/专题训练（解析几何板块），含题型分类	2.5h	
-		19:00 - 20:00	晚餐&amp;自由活动（运动打卡、轻量锻炼）	1h	
-		20:00 - 22:30	物理作业/专题训练（天体运动板块），含公式推导	2.5h	
-		22:30 - 23:00	当日错题整理（物化生数）+ 语文文言文翻译练习（选做）	0.5h	
-	7.22	7:30 - 8:30	英语早读（高考真题词汇复现）	1h	
-		8:30 - 9:00	早餐&amp;休息	0.5h	
-		9:00 - 11:30	生物作业/专题训练（生物与环境板块），含生态模型构建	2.5h	
-		11:30 - 13:30	午餐&amp;午休	2h	
-		13:30 - 16:00	化学作业/专题训练（化学与生活板块），含知识应用拓展	2.5h	
-		16:00 - 16:30	休息（整理书桌、环境整理）	0.5h	
-		16:30 - 19:00	物理作业/专题训练（热学板块），含图像分析	2.5h	
-		19:00 - 20:00	晚餐&amp;自由活动（与家人交流、分享学习）	1h	
-		20:00 - 22:30	数学作业/专题训练（导数应用板块），含极值最值求解	2.5h	
-		22:30 - 23:00	当日错题整理（物化生数）+ 英语词汇默写（选做）	0.5h	
-	7.23	7:30 - 8:30	语文早读（古诗词鉴赏技巧回顾）	1h	
-		8:30 - 9:00	早餐&amp;休息	0.5h	
-		9:00 - 11:30	学科总结复盘（物化生数，梳理本周高频错题、薄弱板块）	2.5h	
-		11:30 - 13:30	午餐&amp;午休	2h	
-		13:30 - 16:00	全科套卷模拟（按高考时间节奏，选物化生数英/语文套卷，限时训练）	2.5h	
-		16:00 - 16:30	休息（简单拉伸、缓解疲劳）	0.5h	
-		16:30 - 19:00	套卷批改分析（逐科打分、错题溯源，总结考试策略）	2.5h	
-		19:00 - 20:00	晚餐&amp;自由活动（兴趣爱好放松，如绘画、手工）	1h	
-		20:00 - 22:30	本周学习查漏补缺（针对套卷、复盘问题，专项补漏）	2.5h	
-		22:30 - 23:00	下周计划规划（梳理各科待完成任务、调整学习重点）	0.5h	
-第二周（7.24 - 7.30）					
-	7.24	7:30 - 8:30	英语早读（新题型词汇&amp;表达积累）	1h	
-		后续时段	按第一周模式，轮换调整学科作业时间（如：上午改化学、下午改生物等，确保每科每周不同时段都覆盖），早读在语文、英语间交替，持续推进知识巩固与拓展，重复“作业训练 - 错题整理 - 周复盘 - 套卷模拟”循环，适配物化生学习节奏		
-第三周（7.31 - 8.3）					
-	7.31 - 8.3	延续周循环逻辑，灵活调整学科作业时段，保持语文/英语早读交替，围绕物化生高频考点深化训练，通过周总结、套卷检验学习效果，收尾暑期学习，为高三冲刺预热。</description><guid isPermaLink="true">https://ChinoArror.github.io/post/q.html</guid><pubDate>Fri, 18 Jul 2025 00:51:04 +0000</pubDate></item><item><title>基因工程思维导图</title><link>https://ChinoArror.github.io/post/ji-yin-gong-cheng-si-wei-dao-tu.html</link><description>基因工程 (Gene Engineering) 思维导图
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Dog's blog</title><link>https://ChinoArror.github.io</link><description>who is dog</description><copyright>Dog's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://yukitech.top/img/avatar_hufe50dbc0beadaa3d73fb72cc6dac61b3_59705_300x0_resize_box_3.png</url><title>avatar</title><link>https://ChinoArror.github.io</link></image><lastBuildDate>Fri, 18 Jul 2025 02:07:10 +0000</lastBuildDate><managingEditor>Dog's blog</managingEditor><ttl>60</ttl><webMaster>Dog's blog</webMaster><item><title>q</title><link>https://ChinoArror.github.io/post/q.html</link><description>---
+
+### **作息表（周期一：7.17-7.23）**
+| 时段       | 周一 7.17   | 周二 7.18   | 周三 7.19   | 周四 7.20   | 周五 7.21   | 周六 7.22   | 周日 7.23   |
+|------------|------------|------------|------------|------------|------------|------------|------------|
+| **6:30-7:30** | **英语早读**&lt;br&gt;（3500词+听力） | **语文早读**&lt;br&gt;（古文+作文素材） | **英语早读**&lt;br&gt;（阅读精析） | **语文早读**&lt;br&gt;（古诗默写） | **英语早读**&lt;br&gt;（真题完型） | **语文早读**&lt;br&gt;（文言实词） | **休息** |
+| **7:30-8:00** | 早餐+时事新闻（科技类） |
+| **8:00-10:30** | 物理作业&lt;br&gt;（专题训练） | 化学作业&lt;br&gt;（实验题专项） | 生物作业&lt;br&gt;（遗传题突破） | 物理作业&lt;br&gt;（模型构建） | 化学作业&lt;br&gt;（计算特训） | **自选动作**&lt;br&gt;（弱科强化） | **科技馆/博物馆** |
+| **10:30-11:00** | 眼保健操+自由调节 |
+| **11:00-12:00** | 整理错题&lt;br&gt;（物理） | 整理错题&lt;br&gt;（化学） | 整理错题&lt;br&gt;（生物） | 真题精研&lt;br&gt;（物理） | 真题精研&lt;br&gt;（化学） | 素材积累 | 体育锻炼 |
+| **12:00-14:00** | 午餐+午休（必休30min） |
+| **14:00-16:30** | 化学作业 | 生物作业 | 物理作业 | 化学作业 | 生物作业 | 套卷限时&lt;br&gt;（物/化选1） | 周复盘 |
+| **16:30-17:30** | 体育运动（必选） |
+| **17:30-19:00** | 晚餐+自由时间 |
+| **19:00-21:30** | 生物作业 | 物理作业 | 化学作业 | 生物作业 | 物理作业 | 错题重做&lt;br&gt;（本周所有） | 电影/阅读 |
+| **21:30-22:00** | **核心闭环**：&lt;br&gt;当日错题归档+明日计划 |
+
+---。</description><guid isPermaLink="true">https://ChinoArror.github.io/post/q.html</guid><pubDate>Fri, 18 Jul 2025 00:51:04 +0000</pubDate></item><item><title>基因工程思维导图</title><link>https://ChinoArror.github.io/post/ji-yin-gong-cheng-si-wei-dao-tu.html</link><description>基因工程 (Gene Engineering) 思维导图
 基因工程 (Gene Engineering / DNA Recombination Technology)
 一、 定义
  * 在体外对DNA分子进行切割、连接，然后导入宿主细胞，实现基因的改造和表达的技术。</description><guid isPermaLink="true">https://ChinoArror.github.io/post/ji-yin-gong-cheng-si-wei-dao-tu.html</guid><pubDate>Fri, 02 May 2025 10:00:16 +0000</pubDate></item><item><title>R-T  Portion 1</title><link>https://ChinoArror.github.io/post/R-T%20%20Portion%201.html</link><description>**句子1：**  
