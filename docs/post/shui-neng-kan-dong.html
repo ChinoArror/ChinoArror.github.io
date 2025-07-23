@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2TR1JDBLK9"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-2TR1JDBLK9');
+    </script>
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
-    <script async src='https://www.googletagmanager.com/gtag/js?id=G-2TR1JDBLK9'></script>
+    <style>body[data-ui-pending] #content {opacity:0;transition:opacity 0.3s ease;}</style><script>document.documentElement.setAttribute('data-ui-pending','true');</script><link rel='stylesheet' href='https://raw.githubusercontent.com/ChinoArror/Gmeek_deploy_template/main/assets/GmeekBaseTheme.css'><script src='https://raw.githubusercontent.com/ChinoArror/Gmeek_deploy_template/main/assets/GmeekCustomizeCss.js' defer></script>
     <link rel="icon" href="https://yukitech.top/img/avatar_hufe50dbc0beadaa3d73fb72cc6dac61b3_59705_300x0_resize_box_3.png"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
@@ -97,7 +106,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
     <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://ChinoArror.github.io">Dog's blog</a></div>
 <div id="footer2">
-    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a> & <a href="https://rin.aryuki.com/about" target="_blank">Aryuki</a></span>
 </div>
 
 <script>
@@ -157,6 +166,7 @@ cmButton=document.getElementById("cmButton");
 function openComments(){
     cm=document.getElementById("comments");
     cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
     cmButton.innerHTML="loading";
     span=document.createElement("span");
     span.setAttribute("class","AnimatedEllipsis");
