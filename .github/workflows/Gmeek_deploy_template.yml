@@ -36,7 +36,8 @@ jobs:
       - name: Clone source code
         run: |
           GMEEK_VERSION=$(jq -r ".GMEEK_VERSION" config.json)
-          git clone https://github.com/ChinoArror/Gmeek_deploy_template.git /opt/Gmeek_deploy_template;
+          sudo rm -rf /opt/Gmeek_deploy_template
+          sudo git clone https://github.com/ChinoArror/Gmeek_deploy_template.git /opt/Gmeek_deploy_template;
           cd /opt/Gmeek_deploy_template/
           lastTag=$(git describe --tags `git rev-list --tags --max-count=1`)
           if [ $GMEEK_VERSION == 'last' ]; then git checkout $lastTag; else git checkout $GMEEK_VERSION; fi;
@@ -44,7 +45,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install -r /opt/Gmeek/requirements.txt
+          pip install -r /opt/Gmeek_deploy_template/requirements.txt
 
       - name: Generate new html
         run: |
