@@ -8,7 +8,7 @@
     "onePageListNum" :15,
     "startSite": "02/23/2025",
     "themeMode": "fix",
-    "script":"<script src='https://raw.githubusercontent.com/ChinoArror/Gmeek_deploy_template/main/assets/ArticleTOC.js'></script><script src='https://raw.githubusercontent.com/ChinoArror/Gmeek_deploy_template/main/assets/lightbox.js'>/ script><script›document.querySelectorAll('a').forEach (anchor => {const img = anchor querySelector ('img');if (img && img. hasAttribute ('data-canonical-src')){const canonicalSrc = img.getAttribute( 'data-canonical-src'); anchor.setAttributel'href',canonicalSrc); img. setAttributel'src',canonicalSrc); img.removeAttribute ( 'data-canonical-src'); 3});</script>",
-    "allHead":"<script src='https://raw.githubusercontent.com/ChinoArror/Gmeek_deploy_template/main/assets/RonanTheme.js'></script>",
-    "primerCSS":"<link href='https://raw.githubusercontent.com/ChinoArror/Gmeek_deploy_template/main/assets/primer.css' rel='stylesheet' />"
+    "script":"<script src='https://dog.yukies.top/ArticleTOC.js'></script><script src='https://dog.yukies.top/lightbox.js'>/ script><script›document.querySelectorAll('a').forEach (anchor => {const img = anchor querySelector ('img');if (img && img. hasAttribute ('data-canonical-src')){const canonicalSrc = img.getAttribute( 'data-canonical-src'); anchor.setAttributel'href',canonicalSrc); img. setAttributel'src',canonicalSrc); img.removeAttribute ( 'data-canonical-src'); 3});</script>",
+    "allHead":"<script src='https://dog.yukies.top/RonanTheme.js'></script>",
+    "primerCSS":"<link href='https://dog.yukies.top/primer.css' rel='stylesheet' />"
 }
