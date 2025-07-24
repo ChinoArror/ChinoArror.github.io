@@ -1,6 +1,6 @@
 # 🌸 About Me
 
-##Who is dog?
+## Who is dog?
 
 <div align="left" style="border: 1px solid #ddd; padding: 12px; border-radius: 10px; margin-bottom: 16px; background: #fdfdfd;">
 
