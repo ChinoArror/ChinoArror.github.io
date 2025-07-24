@@ -20,6 +20,3 @@
 - 🌀 奇趣幻想故事  
 - 🎨 插画与短篇创作  
 
-
-<!-- 替换以下为你自己的 SVG 图标链接 -->
-< img src="https://avatars.githubusercontent.com/u/36541432" width="24" height="24" alt="rin icon"/>
