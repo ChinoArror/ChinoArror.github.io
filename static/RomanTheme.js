@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
         style.innerHTML = `
 
         html {    
-            background: url('https://blog.freeblock.cn/background.webp') no-repeat center center fixed;
+            background: url('https://dog.yukies.top/background.png') no-repeat center center fixed;
             background-size: cover;
         }
 
@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', function() {
         style.innerHTML = `
         
         html {    
-            background: url('https://blog.freeblock.cn/background.webp') no-repeat center center fixed;
+            background: url('https://dog.yukies.top/background.png') no-repeat center center fixed;
             background-size: cover;
         }
 
